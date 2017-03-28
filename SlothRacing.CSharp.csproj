@@ -83,6 +83,7 @@
     <Compile Include="Assets\ComputerClock.cs" />
     <Compile Include="Assets\GameController.cs" />
     <Compile Include="Assets\PlayerPrefsManager.cs" />
+    <Compile Include="Assets\Sloth.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
